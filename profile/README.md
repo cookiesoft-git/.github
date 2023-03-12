@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner-cookie.png" width=400>
+<img src="https://github.com/cookie-software/.github/profile/banner-cookie.png" width=400>
 <br>
 Experience Arch with a side of salt
 <br>
