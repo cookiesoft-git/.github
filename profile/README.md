@@ -4,5 +4,5 @@
 Experience Arch with a side of salt
 <br>
 <br>
-Arch • GTK • Distro • UNIX-like • Swift
+Arch • GTK • Distro • UNIX-like • Swift • Community • Advanced
 </div>
